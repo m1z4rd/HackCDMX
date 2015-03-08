@@ -1,0 +1,11 @@
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.CityZenDF.ServicioConsumoDatos.dll.config
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.CityZenDF.ServicioConsumoDatos.dll
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.CityZenDF.ServicioConsumoDatos.pdb
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.AppCivica.DataService.dll
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.AppCivica.JsonDatosZen.dll
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\Newtonsoft.Json.dll
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.AppCivica.DataService.pdb
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\HackCDMX.AppCivica.JsonDatosZen.pdb
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\bin\Newtonsoft.Json.xml
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\obj\Debug\HackCDMX.CityZenDF.ServicioConsumoDatos.dll
+C:\Users\mizard\documents\visual studio 2013\Projects\HackCDMX.CityZenDF.ServicioConsumoDatos\HackCDMX.CityZenDF.ServicioConsumoDatos\obj\Debug\HackCDMX.CityZenDF.ServicioConsumoDatos.pdb

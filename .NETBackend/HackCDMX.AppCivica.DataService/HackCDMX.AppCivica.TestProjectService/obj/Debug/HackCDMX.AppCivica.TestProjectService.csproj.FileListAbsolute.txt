@@ -1,0 +1,11 @@
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\HackCDMX.AppCivica.TestProjectService.dll
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\HackCDMX.AppCivica.TestProjectService.pdb
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\HackCDMX.AppCivica.DataService.dll
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\HackCDMX.AppCivica.JsonDatosZen.dll
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\HackCDMX.AppCivica.DataService.pdb
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\HackCDMX.AppCivica.JsonDatosZen.pdb
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\obj\Debug\HackCDMX.AppCivica.TestProjectService.dll
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\obj\Debug\HackCDMX.AppCivica.TestProjectService.pdb
+C:\Users\mizard\Documents\Visual Studio 2013\Projects\HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.TestProjectService\obj\Debug\HackCDMX.AppCivica.TestProjectService.csprojResolveAssemblyReference.cache

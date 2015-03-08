@@ -1,0 +1,6 @@
+c:\users\mizard\documents\visual studio 2013\Projects\HackCDMX.AppCivica.JsonDatosZen\HackCDMX.AppCivica.JsonDatosZen\bin\Debug\HackCDMX.AppCivica.JsonDatosZen.dll
+c:\users\mizard\documents\visual studio 2013\Projects\HackCDMX.AppCivica.JsonDatosZen\HackCDMX.AppCivica.JsonDatosZen\bin\Debug\HackCDMX.AppCivica.JsonDatosZen.pdb
+c:\users\mizard\documents\visual studio 2013\Projects\HackCDMX.AppCivica.JsonDatosZen\HackCDMX.AppCivica.JsonDatosZen\bin\Debug\Newtonsoft.Json.dll
+c:\users\mizard\documents\visual studio 2013\Projects\HackCDMX.AppCivica.JsonDatosZen\HackCDMX.AppCivica.JsonDatosZen\bin\Debug\Newtonsoft.Json.xml
+c:\users\mizard\documents\visual studio 2013\Projects\HackCDMX.AppCivica.JsonDatosZen\HackCDMX.AppCivica.JsonDatosZen\obj\Debug\HackCDMX.AppCivica.JsonDatosZen.dll
+c:\users\mizard\documents\visual studio 2013\Projects\HackCDMX.AppCivica.JsonDatosZen\HackCDMX.AppCivica.JsonDatosZen\obj\Debug\HackCDMX.AppCivica.JsonDatosZen.pdb

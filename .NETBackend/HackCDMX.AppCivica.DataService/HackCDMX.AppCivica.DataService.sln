@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackCDMX.AppCivica.DataService", "HackCDMX.AppCivica.DataService\HackCDMX.AppCivica.DataService.csproj", "{9817FA9F-37A5-4F41-9875-F99A33271937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackCDMX.AppCivica.TestProjectService", "HackCDMX.AppCivica.TestProjectService\HackCDMX.AppCivica.TestProjectService.csproj", "{798B00C9-A9C1-455D-BB37-BDEB8628EA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9817FA9F-37A5-4F41-9875-F99A33271937}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{798B00C9-A9C1-455D-BB37-BDEB8628EA62}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
